@@ -1,6 +1,6 @@
-package com.nttdata.glue;
+package com.nttdata.glue.pets;
 
-import com.nttdata.steps.UpdatePetStep;
+import com.nttdata.steps.pets.UpdatePetStep;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

@@ -1,4 +1,4 @@
-package com.nttdata.steps;
+package com.nttdata.steps.pets;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
