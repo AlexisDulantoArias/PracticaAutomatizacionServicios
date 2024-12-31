@@ -1,4 +1,4 @@
-package com.nttdata.steps.users;
+package com.nttdata.steps.order;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;

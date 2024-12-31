@@ -27,3 +27,10 @@ Feature: Módulo de Pedidos
       | 1        | 123       | 10             |
       | 2        | 345       | 12             |
       | 3        | 890       | 7              |
+
+  @inventarioPorEstado
+  Scenario: Devuelve inventarios de mascotas por estado
+    Given la URL base para verificar los inventarios es "https://petstore.swagger.io/v2"
+    When consulto el inventario
+    Then valido que el código de respuesta para el servicio sea 200
+    And imprimo la respuesta del servicio

@@ -1,6 +1,6 @@
-package com.nttdata.glue.users;
+package com.nttdata.glue.order;
 
-import com.nttdata.steps.users.CreateOrderStep;
+import com.nttdata.steps.order.CreateOrderStep;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
