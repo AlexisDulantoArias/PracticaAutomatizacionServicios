@@ -1,5 +1,4 @@
-@petStoreTest
-@userTest
+@petStoreTest @userTest
 
 Feature: Módulo de usuario
 
