@@ -1,5 +1,5 @@
 @petStoreTest
-Feature: API de PetStore
+Feature: Módulo de mascotas
 
   @crearMascota
   Scenario Outline: Crear y validar una nueva mascota
