@@ -1,4 +1,4 @@
-@petStoreTest
+@petStoreTest @orderTest
 Feature: Módulo de Pedidos
 
   @crearPedido

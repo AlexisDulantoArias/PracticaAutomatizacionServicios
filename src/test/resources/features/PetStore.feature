@@ -1,4 +1,4 @@
-@petStoreTest
+@petStoreTest @petTest
 Feature: Módulo de mascotas
 
   @crearMascota
